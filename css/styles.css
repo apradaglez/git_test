@@ -1,0 +1,32 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color:hsl(183, 63%, 43%);
+  font-size: 32px;
+}
+
+/* Reset margins */
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+figure,
+picture,
+blockquote {
+  margin: 0;
+}
+
+.container {
+    max-width: 80%;
+    margin-inline: auto;
+    padding: 100px 10%;
+    border: 1px dotted red;
+}
+
+
