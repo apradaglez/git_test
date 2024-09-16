@@ -29,4 +29,9 @@ blockquote {
     border: 1px dotted red;
 }
 
-
+.cuadrado {
+  max-width: 300px;
+  margin-inline: auto;
+  padding: 20px;
+  background-color: black;
+}
