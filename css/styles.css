@@ -23,7 +23,7 @@ blockquote {
 }
 
 .container {
-    width: 80%;
+    giwidth: 80%;
     margin-inline: auto;
     padding: 100px 10%;
 }
