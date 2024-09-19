@@ -22,10 +22,24 @@ blockquote {
   margin: 0;
 }
 
-.container {
-    giwidth: 80%;
-    margin-inline: auto;
-    padding: 100px 10%;
+body {
+  background-color: bisque;
 }
 
+.container {
+    width: 80%;
+    margin-inline: auto;
+    padding: 100px 10%;
+    /* border: 1px dotted red; */
+}
 
+.cuadrado {
+  max-width: 300px;
+  margin-inline: auto;
+  padding: 25px;
+  background-color: black;
+}
+
+.cursiva {
+  font-style: italic;
+}
